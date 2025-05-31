@@ -1,6 +1,9 @@
+
+## ClausemenDEV
+
 - 👋 Hi, I’m @ClausemenDeveloper
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning C and front-end
+- 🌱 I’m currently learning C , Java, JavaScript, HTML, CSS and etc.
 
 
 <!---
